@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Horizontal Logo",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/horizontal-logo.png",
+        "width": 1718,
+        "height": 292,
+        "unit": "px",
+        "size": "90.05 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Icon Paddingless",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/icon-paddingless.png",
+        "width": 962,
+        "height": 962,
+        "unit": "px",
+        "size": "607.55 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Icon Background Less",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/icon-background-less.png",
+        "width": 962,
+        "height": 962,
+        "unit": "px",
+        "size": "532.34 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Icon Circle Grey",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/icon-circle-grey.png",
+        "width": 962,
+        "height": 962,
+        "unit": "px",
+        "size": "687.11 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Icon Circle",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/icon-circle.png",
+        "width": 962,
+        "height": 962,
+        "unit": "px",
+        "size": "770.82 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Icon Square Grey",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/icon-square-grey.png",
+        "width": 962,
+        "height": 962,
+        "unit": "px",
+        "size": "663.17 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Icon Square",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/icon-square.png",
+        "width": 962,
+        "height": 962,
+        "unit": "px",
+        "size": "760.87 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Icon Squircle Grey",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/icon-squircle-grey.png",
+        "width": 962,
+        "height": 962,
+        "unit": "px",
+        "size": "686.22 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Icon Squircle",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/icon-squircle.png",
+        "width": 962,
+        "height": 962,
+        "unit": "px",
+        "size": "781.84 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Mobile Wallpaper",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/mobile-wallpaper.png",
+        "width": 444,
+        "height": 962,
+        "unit": "px",
+        "size": "1.82 MB",
+        "description": "Standard"
+    },
+    {
+        "name": "Desktop Wallpaper",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/desktop-wallpaper.png",
+        "width": 1538,
+        "height": 961,
+        "unit": "px",
+        "size": "1.2 MB",
+        "description": "Standard"
+    },
+    {
+        "name": "Vertical Logo",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/vertical-logo.png",
+        "width": 1533,
+        "height": 759,
+        "unit": "px",
+        "size": "187.87 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Text Logo",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/text-logo.png",
+        "width": 1533,
+        "height": 282,
+        "unit": "px",
+        "size": "19.19 kB",
+        "description": "Standard"
+    },
+    {
+        "name": "Palette",
+        "type": "image/png",
+        "url": "https://media.apidoxy.com/branding/palette.png",
+        "width": 1920,
+        "height": 916,
+        "unit": "px",
+        "size": "108.22 kB",
+        "description": "Standard"
+    }
+]
