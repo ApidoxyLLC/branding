@@ -2,8 +2,7 @@
 const nextConfig = {
   /* config options here */
   output: 'export',
-  basePath: '',
-  assetPrefix: '',
+  trailingSlash: true,
   images: {
     unoptimized: true,
     domains: ['media.apidoxy.com'],
